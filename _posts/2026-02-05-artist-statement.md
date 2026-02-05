@@ -7,4 +7,4 @@ date: 2025-02-05
 "artist-statement"
 2026-02-05
 ---
-I am an arist because this that and the third.
+I am an artist because of this that and the third.
