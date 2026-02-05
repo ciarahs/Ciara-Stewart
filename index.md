@@ -1,6 +1,6 @@
 <html>
 <body>
     <h1>Ciara Stewart</h1>
-    <p>Creative Statement</p>
+    <p>Artist Statement</p>
 </body>
 </html>
