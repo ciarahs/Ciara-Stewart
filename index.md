@@ -9,6 +9,11 @@ My work in photography focuses on how people express joy in times of uncertainty
 
   <h3><a href="reading1.html">Reading 1</a></h3>
   <section>
+      <section>
+
+  <h3><a href="reading2.html">Reading 2</a></h3>
+
+</section>
 <h3><a href="homework2.html">Homework 2</a></h3>
 </section>
 
