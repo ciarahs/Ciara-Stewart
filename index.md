@@ -5,4 +5,9 @@
 My work in photography focuses on how people express joy in times of uncertainty. I aim to capture the moments of celebration that exist alongside tension and instability. My goal  is for my photos to feel like a familiar invitation and a moment of reflection. Through experimenting with different techniques I hope to highlight the diverse forms joy comes in.
 </p>
 </body>
+     <section>
+
+  <h3><a href="reading1.html">Reading 1</a></h3>
+
+</section>
 </html>
