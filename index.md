@@ -15,6 +15,7 @@ My work in photography focuses on how people express joy in times of uncertainty
 
 </section>
 <h3><a href="homework2.html">Homework 2</a></h3>
+<a href="index.html">Back to Home</a>
 </section>
 
 
