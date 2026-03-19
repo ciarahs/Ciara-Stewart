@@ -39,6 +39,19 @@ My work in photography focuses on how people express joy in times of uncertainty
   <h3><a href="homework5.html">Homework 5</a></h3>
   
 </section>
+<h2>Reading</h2>
+<section>
+
+
+  <h3><a href="reading1.html">Reading 1</a></h3>
+  
+</section>
+<section>
+
+
+  <h3><a href="reading2.html">Reading 2</a></h3>
+  
+</section>
 <footer>
 
     <p>
