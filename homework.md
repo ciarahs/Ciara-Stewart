@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>Homework 2</title>
-</head>
 <body>
 
   <h1>Homework 2</h1>
@@ -26,7 +23,7 @@
   <br>
 
 
-  <a></a> href="index.html">Back to Home</a>
+  <a> href="index.html">Back to Home</a>
 
 </body>
 </html>
