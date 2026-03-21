@@ -11,7 +11,7 @@
  Increasing the contrast and highlights caused the once muted light to stand out. I debated between green and purple when testing 
  out the tint spectrum. Purple reminded me of a staircase on a night out, however, green sets an almost apocalyptic ambience.
   </p>
-
+<img src="image/montagework.jpg" alt="Photomontage work" width="300">
   <br>
 
 
