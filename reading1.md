@@ -2,7 +2,7 @@
 
 <head>
 
-  <title>Reading and Written Response #1</title>
+  <title>Reading 1</title>
 
 </head>
 
