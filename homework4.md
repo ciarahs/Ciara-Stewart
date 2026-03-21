@@ -1,7 +1,7 @@
 <html lang="en">
 <body>
 
-  <h1>Homework 3</h1>
+  <h1>Homework 4</h1>
 
 <img src="image/photomontage.jpg" alt="Photomontage" width="300">
   <p>
