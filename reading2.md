@@ -2,7 +2,7 @@
 
 <head>
 
-  <title>Reading 1</title>
+  <title>Reading: With ‘AI slop’ distorting our reality, the world is sleepwalking into disaster by Nesrine Malik</title>
 
 </head>
 
