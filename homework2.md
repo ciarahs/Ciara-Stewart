@@ -11,7 +11,7 @@
  Increasing the contrast and highlights caused the once muted light to stand out. I debated between green and purple when testing 
  out the tint spectrum. Purple reminded me of a staircase on a night out, however, green sets an almost apocalyptic ambience.
   </p>
-<img src="image/image2.jpg" alt="Image 2" width="300">
+<img src="image/image2.jpg" alt="Image 2" width="500">
   <p>
   The ninth floor of the east building offers a sterile like feeling, one similar to an unexpected hospital visit.
   The line of elevators leading down the hallway guides your eyes to the end of the hallway and I also like the
