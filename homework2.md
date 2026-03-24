@@ -4,14 +4,14 @@
   <h1>Homework 2</h1>
 
 <img src="image/image2.jpg" alt="Image 2" width="500">
-  <p>
-  The ninth floor of the east building offers a sterile like feeling, one similar to an unexpected hospital visit.
-  The line of elevators leading down the hallway guides your eyes to the end of the hallway and I also like the
+ 
+<img src="image/image1.jpg" alt="Image 1" width="300">
+   <p>
+  The ninth floor of the east building offers a sterile-like feeling, one similar to an unexpected hospital visit.
+  The line of elevators leading down the hallway guides your eyes to the end of the hallway, I also like the
   yellow tile that stands out amongst the others. I decreased the shadows to add to the almost eerie feeling. 
   By increasing the temperature, it added warmth which brought out the walls.
   </p>
-  
-<img src="image/image1.jpg" alt="Image 1" width="300">
   <p>
  I was inspired by the staircase’s natural checkered pattern, as well as the parallel line of light.
  The raw image captured the contrast of the dark gray against the white, but the line of light didn’t stand out.
