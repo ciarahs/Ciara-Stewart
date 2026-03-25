@@ -16,17 +16,6 @@
   <h1>Homework 3: Depth of Field</h1>
 
 
-  <p>
-
-    For Homework 3, I posted 4 JPG images total on this single page (homework3.html):
-
-    a shallow depth of field photo, a deep depth of field photo, a Photoshop blur version,
-
-    and the original image used for the blur comparison. All images are under 2 MB and saved
-
-    in the <b>images</b> folder.
-
-  </p>
 
 
   <h2>1 & 2: In-camera shallow vs. deep depth of field</h2>
