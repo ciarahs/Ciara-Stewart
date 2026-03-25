@@ -5,6 +5,7 @@
 
 <img src="image/image2.jpg" alt="Image 2" width="500">
  <br>
+ <br>
 <img src="image/image1.jpg" alt="Image 1" width="300">
    <p>
   The ninth floor of the east building offers a sterile-like feeling, one similar to an unexpected hospital visit.
