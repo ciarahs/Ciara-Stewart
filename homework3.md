@@ -90,7 +90,7 @@
 
       <td style="vertical-align:top;text-align:center;">
 
-        <img src="images/photoshopblur.jpg" alt="Photoshop shallow depth of field using Blur Gallery" width="300" />
+        <img src="image/photoshopblur.jpg" alt="Photoshop shallow depth of field using Blur Gallery" width="300" />
 
         <p>
 
@@ -102,7 +102,7 @@
 
       <td style="vertical-align:top;text-align:center;">
 
-        <img src="images/original.jpg" alt="Original image used for Photoshop blur comparison" width="300" />
+        <img src="image/original.jpg" alt="Original image used for Photoshop blur comparison" width="300" />
 
         <p>
 
